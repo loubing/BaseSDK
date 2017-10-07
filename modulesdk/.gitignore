@@ -1,3 +1,4 @@
+/build
 *.iml
 .gradle
 /local.properties
@@ -5,7 +6,6 @@
 /.idea/libraries
 /.idea/misc.xml
 .DS_Store
-/build
 /captures
 # Built application files
 *.apk
